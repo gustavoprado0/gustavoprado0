@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 
-**gustavoprado0/gustavoprado0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gustavoprado0/gustavoprado0**  
+https://discord.com/channels/@GUSTAPRD#5847 (Discord)
+https://www.linkedin.com/in/gustavo-prado-14993824a/ (Linkedin)  
+
 
 Here are some ideas to get you started:
 
