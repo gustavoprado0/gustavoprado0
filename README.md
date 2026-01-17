@@ -67,5 +67,4 @@ Estou constantemente aprendendo e acompanhando as evoluções do ecossistema Jav
 ⸻
 
 📫 Vamos conversar?
-	•	💼 GitHub: [https://github.com/gustavoprado0](https://github.com/gustavoprado0)
 	•	🌐 LinkedIn: https://www.linkedin.com/in/gustavopradosouza?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
