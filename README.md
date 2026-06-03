@@ -1,18 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Gustavo%20Prado&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Front-end%20Engineer%20·%20React%20·%20React%20Native%20·%20TypeScript&descAlignY=55&descSize=16&descColor=a8b2d8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Gustavo%20Prado&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Front-End%20Engineer%20%7C%20React%20·%20Next.js%20·%20TypeScript%20·%20Node.js&descAlignY=55&descSize=16&descColor=a8b2d8" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=Engenheiro+Front-end+%F0%9F%9A%80;React+%7C+React+Native+%7C+TypeScript;Interfaces+modernas+e+escaláveis+%E2%9C%A8;Clean+Code+%7C+UI%2FUX+%7C+Performance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=700&lines=Front-End+Engineer+%F0%9F%9A%80;Interfaces+modernas+e+escaláveis+%E2%9C%A8;De+Front-End+a+Fullstack+%F0%9F%94%A5;Impacto+real+no+negócio+com+código+limpo)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Prado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavopradosouza)
+[![Gmail](https://img.shields.io/badge/Gmail-gustavopsz2002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavopsz2002@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(11)%2096593--9256-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511965939256)
 [![Localização](https://img.shields.io/badge/📍_Guarulhos-SP%2C%20Brasil-e94560?style=for-the-badge)](https://www.linkedin.com/in/gustavopradosouza)
 ![Visitors](https://komarev.com/ghpvc/?username=gustavopradosouza&color=e94560&style=for-the-badge&label=Visitas)
 
@@ -24,16 +26,36 @@
 
 ```ts
 const gustavo = {
-  role:       "Front-end Engineer",
-  location:   "Guarulhos – SP, Brasil 🇧🇷",
-  focus:      ["React.js", "React Native", "TypeScript"],
-  passions:   ["UI/UX", "Performance", "Código limpo"],
-  working_on: "Interfaces modernas, escaláveis e acessíveis",
-  mindset:    "Aprendizado contínuo & colaboração",
+  role:        "Front-End Engineer → Fullstack",
+  location:    "Guarulhos – SP, Brasil 🇧🇷",
+  core:        ["React.js", "Next.js", "TypeScript", "Node.js"],
+  focus:       ["Performance Web", "UI/UX", "Produto Digital"],
+  practices:   ["Clean Code", "SSR/SPA/SSG", "Componentização", "a11y"],
+  impact:      "Reduzi em até 70% o tempo de análise com dashboards em tempo real",
+  mindset:     "Código que resolve problemas reais de negócio",
 };
 ```
 
-Sou desenvolvedor Front-end com foco em **React**, **React Native** e **TypeScript**, apaixonado por criar interfaces modernas, performáticas e escaláveis. Tenho experiência no desenvolvimento de aplicações web e mobile, sempre buscando boas práticas, código limpo e excelente experiência do usuário.
+Sou **Desenvolvedor Front-End** com foco na construção de interfaces modernas, performáticas e orientadas à melhor experiência do usuário.
+
+Ao longo da minha trajetória, evoluí de **Front-End para Fullstack**, atuando diretamente na criação de produtos digitais utilizados por áreas como vendas, financeiro, produto e operações. Meu foco vai além da interface: busco desenvolver soluções que **realmente geram impacto no negócio**, facilitando análise, tomada de decisão e escalabilidade.
+
+---
+
+## 🏆 Resultados que me orgulho
+
+<div align="center">
+
+| 🎯 Resultado | 📌 Contexto |
+|---|---|
+| ⬇️ **70% menos tempo** de análise | Dashboards financeiros e comerciais com KPIs em tempo real |
+| 📈 **Conversão aumentada** | Checkout otimizado com menos fricção na jornada do usuário |
+| ⚡ **Produtividade elevada** | Integrações fullstack com **tRPC**, reduzindo retrabalho front/back |
+| 🔒 **APIs escaláveis e seguras** | Estruturação com **Node.js + Express**, foco em organização |
+| 🐛 **Menos bugs, + manutenibilidade** | Migração de apps legados para **React.js + TypeScript** |
+| 📊 **Clareza operacional** | Painéis completos de vendas, financeiro e produtos |
+
+</div>
 
 ---
 
@@ -41,22 +63,30 @@ Sou desenvolvedor Front-end com foco em **React**, **React Native** e **TypeScri
 
 <div align="center">
 
-### Core
+### Front-End
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Estilização
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white)
 
 ### Estado & Dados
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=zustand&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
+
+### Back-End & Banco de Dados
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### UI & Design System
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
@@ -84,20 +114,6 @@ Sou desenvolvedor Front-end com foco em **React**, **React Native** e **TypeScri
 
 ---
 
-## 🚀 O que eu desenvolvo
-
-<div align="center">
-
-| 🖥️ Web | 📱 Mobile | 🧩 Componentes |
-|--------|-----------|---------------|
-| Dashboards modernos | Apps com React Native | Design Systems escaláveis |
-| Sistemas com Next.js | UX fluida e performática | Componentes reutilizáveis |
-| Interfaces responsivas | Integração com APIs REST | Tipagem robusta com TypeScript |
-
-</div>
-
----
-
 ## 📈 Gráfico de Contribuições
 
 <div align="center">
@@ -114,11 +130,27 @@ Sou desenvolvedor Front-end com foco em **React**, **React Native** e **TypeScri
 
 ---
 
+## 🚀 O que eu construo
+
+<div align="center">
+
+| 🖥️ Web | ⚙️ Fullstack | 🧩 Produto |
+|--------|------------|-----------|
+| Dashboards com KPIs em tempo real | APIs REST com Node.js + Express | Design Systems escaláveis |
+| Apps com Next.js (SSR / SSG / SPA) | Integração via tRPC | Componentes reutilizáveis |
+| Interfaces responsivas e acessíveis | PostgreSQL + Prisma ORM | Painéis de vendas e financeiro |
+
+</div>
+
+---
+
 ## 📫 Vamos conversar?
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Me%20chama%20no%20LinkedIn!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavopradosouza)
+[![Gmail](https://img.shields.io/badge/Manda%20um%20e--mail!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavopsz2002@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/Fala%20no%20WhatsApp!-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511965939256)
 
 </div>
 
