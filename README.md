@@ -114,14 +114,6 @@ Ao longo da minha trajetória, evoluí de **Front-End para Fullstack**, atuando 
 
 ---
 
-## 📈 Gráfico de Contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavopradosouza&bg_color=0d1117&color=a8b2d8&line=e94560&point=e94560&area=true&hide_border=true" />
-</div>
-
----
-
 ## 🏆 Troféus
 
 <div align="center">
