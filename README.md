@@ -16,7 +16,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-gustavopsz2002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavopsz2002@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-(11)%2096593--9256-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511965939256)
 [![Localização](https://img.shields.io/badge/📍_Guarulhos-SP%2C%20Brasil-e94560?style=for-the-badge)](https://www.linkedin.com/in/gustavopradosouza)
-![Visitors](https://komarev.com/ghpvc/?username=gustavopradosouza&color=e94560&style=for-the-badge&label=Visitas)
 
 </div>
 
@@ -97,27 +96,6 @@ Ao longo da minha trajetória, evoluí de **Front-End para Fullstack**, atuando 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavopradosouza&show_icons=true&theme=tokyo-night&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopradosouza&layout=compact&langs_count=8&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavopradosouza&theme=tokyo-night&hide_border=true&background=0d1117&stroke=e94560&ring=e94560&fire=e94560&currStreakNum=a8b2d8&sideNums=a8b2d8&currStreakLabel=e94560&sideLabels=a8b2d8&dates=a8b2d8" />
-</div>
-
----
-
-## 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gustavopradosouza&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
