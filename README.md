@@ -44,35 +44,6 @@ Também estudo e aplico conceitos de componentização, Design Systems, Clean Co
 
 ---
 
-## 🚀 Experiência profissional
-
-### Innovation Brindes
-**Desenvolvedor Full Stack — atuação com foco em Front-End**
-
-- Manutenção e evolução de CRM corporativo, desenvolvendo funcionalidades de Front-End e Back-End.
-- Construção de site institucional e comercial com estrutura multilíngue para diferentes mercados.
-- Desenvolvimento e integração de APIs e serviços.
-- Otimização de requisições, performance, SEO técnico e experiência do usuário.
-
-### Shield Tech
-**Desenvolvedor de Software**
-
-- Desenvolvimento de dashboards financeiros, métricas de vendas e KPIs operacionais.
-- Criação de painel de frete com cálculo automatizado e controle de custos logísticos.
-- Evolução de interfaces de checkout e gerenciamento de vendas.
-- Migração de código legado para React e TypeScript.
-- Integrações full stack com tRPC e Prisma, além de implementação de eventos de rastreamento e pixels de marketing.
-
-### Hydra Hub
-**Desenvolvedor Full Stack — atuação com foco em Front-End**
-
-- Desenvolvimento de interfaces e integrações para uma fintech de pagamentos.
-- Criação de dashboards com indicadores de vendas, transações, conversão e chargebacks.
-- Desenvolvimento de painéis financeiros, relatórios e ferramentas operacionais.
-- Construção do Front-End de checkout próprio, com foco em conversão e experiência responsiva.
-
----
-
 ## 📌 Projetos em destaque
 
 ### 💰 Dashboard Financeiro White Label
