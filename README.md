@@ -1,4 +1,4 @@
-# Olá! Eu sou o Gustavo Prado 👋
+# Olá! Eu sou o Gustavo Prado 
 
 ### Full Stack Developer | Especialização em Front-End
 
